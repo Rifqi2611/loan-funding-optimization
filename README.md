@@ -96,4 +96,3 @@ By simulating proportional scenarios under realistic constraints, this analysis 
 
 ---
 
-## 📁 Repository Structure
